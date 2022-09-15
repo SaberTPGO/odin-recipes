@@ -1,2 +1,6 @@
 # webdevprojectstarter
-Used to make base HTML projects easier
+
+First Odin project assignment
+Skills Practiced: 
+- Lists
+- Page links
