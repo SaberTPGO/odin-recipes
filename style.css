@@ -2,4 +2,12 @@
     display: flex;
     flex-direction: column;
     position: relative;
+    overflow-wrap: break-word;
+}
+
+.recipe {
+    display: flex;
+    overflow-wrap: break-word;
+    height: fit-content;
+    width: fit-content;
 }
